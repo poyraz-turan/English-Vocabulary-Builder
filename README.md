@@ -17,7 +17,6 @@ Built-in dictionary connection test (tests it with a few words entry. If It does
 
 I tried to do it retro Windows-style graphical interface themed. 
 
-![Application Screenshot](screenshot.png)
 
 Requirements
 Python 3.9+
