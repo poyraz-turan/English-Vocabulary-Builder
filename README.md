@@ -1,10 +1,12 @@
 # English-Vocabulary-Builder
 A simple desktop application built with Python and Tkinter that helps you build your English vocabulary. Enter a word or phrase, and the program automatically retrieves its definition from online dictionary services and stores it.
 
+! THIS IS THE FUN VERSION !
+I used a strange API that gave strange results, didn't work for some words but they were funny. Results were funny so i wanted to keep it
 
 ✨ Features
 Search for English words and phrases
-Automatically fetch definitions from multiple online dictionary sources. (A possible problem is, i did try these API options and they worked for me. But before these, I tried dozens of other options. They did not work for me. So I used the best API options.)
+Automatically fetch definitions from multiple online dictionary sources. 
 
 Cambridge Dictionary
 Merriam-Webster
