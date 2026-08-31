@@ -5,6 +5,7 @@ A simple desktop application built with Python and Tkinter that helps you build 
 ✨ Features
 Search for English words and phrases
 Automatically fetch definitions from multiple online dictionary sources. (A possible problem is, i did try these API options and they worked for me. But before these, I tried dozens of other options. They did not work for me. So I used the best API options.)
+
 Cambridge Dictionary
 Merriam-Webster
 Wordnik
@@ -58,8 +59,17 @@ JSON save system.
 
 This project is released under the MIT License.
 
+-Future Improvements possible
+
+Favorites (will do it)
+Audio
+Quiz mode (might be fun and effective but i want to make it simple.)
+Dark mode (will do a button switch)
+Import/Export vocabulary (its basic json file read you can just replace the json file program created)
+Search within saved words
 
 
-Run the application:
+
+
 
 python English_practise_word.py
