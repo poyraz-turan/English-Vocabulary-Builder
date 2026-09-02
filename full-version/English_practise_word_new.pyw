@@ -10,6 +10,9 @@ import re
 from bs4 import BeautifulSoup
 import random
 
+#Added Favorites, fully functional.
+#Added Flashcards that is fully functional and works at extra window.
+
 DATA_FILE = "vocabulary.json"
 FAVORITES_FILE = "favorites.json"
 FONT_FAMILY = "New Times Roman"
